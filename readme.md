@@ -4,3 +4,4 @@ competition.
 
 Best MAE Score: 41.24
 Rank: 91/440
+Top 20% solution
